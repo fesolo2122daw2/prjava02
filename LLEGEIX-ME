@@ -1,0 +1,13 @@
+Instruccions utiltizades:
+1) git branch00
+5) git checkout main
+7) git checkout branca00
+10b) git merge branca00
+12) git push -u origin main 
+14a) git push -u origin branca01
+
+Respostes:
+6) El canvi no es troba enlloc, ja que es troba en el commit fet a branca00.
+7) Ara si que es troba, ja que branca00 conté el commit del canvi realitzat.
+12c) Només es troba main, ja que s’ha fet un merge dels continguts.
+14c) Només hi ha un commit de diferència. 
